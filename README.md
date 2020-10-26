@@ -17,4 +17,4 @@ Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/LinaBr
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/LinaBrand/Getting-and-Cleaning-Data-Course-Project/blob/main/tidydata.txt")
 Github Repo | Repository |  [Repository Link](https://github.com/LinaBrand/Getting-and-Cleaning-Data-Course-Project/ "Click to check the repository")
 Cookbook | CodeBook.md |  [Codebook Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md "CodeBook.md")
-README | ReadingItNow |  [README Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md "README.md")
+README | ReadingItNow |  [README Link](https://github.com/LinaBrand/Getting-and-Cleaning-Data-Course-Project/blob/main/README.md "README.md")
